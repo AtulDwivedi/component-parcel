@@ -1,4 +1,4 @@
-package com.quickcart.component.parcel;
+package com.routinecart.component.parcel;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
