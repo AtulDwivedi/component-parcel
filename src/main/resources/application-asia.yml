@@ -1,0 +1,12 @@
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+
+parcel:
+  modes: Smart Post, FedEx, UPS, Agile
+
+info:
+ app:
+  name: Spring Boot Basics
+  description: demo description
+  version: 1.0.0
+ temp: this is just a junk
